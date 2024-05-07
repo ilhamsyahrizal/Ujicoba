@@ -12,3 +12,5 @@ console.log(multiply(3,4));
 const divide = (a,b,s) => a - b - s ;
 console.log(divide(4,2,1)) 
 
+console.log("kamu pasti bisa :)")
+
